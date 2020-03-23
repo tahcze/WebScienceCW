@@ -39,3 +39,7 @@ Problems:
   1. Csv file has not all fields from tweet, so please use json instead
   2. Rest api request might cause "Read time out" error on windows machine. Did not occurre on iOS system.
   
+Sourcs:
+  * lecture slides
+  * http://vlado.fmf.uni-lj.si/pub/networks/doc/triads/triads.pdf
+  * https://pythonprogramminglanguage.com/kmeans-text-clustering/
